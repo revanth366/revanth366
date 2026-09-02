@@ -71,17 +71,6 @@ continuously learning new technologies.
 
 ---
 
-### 🚌 Bus Ticket Booking Management System
-
-**Tech Stack:** Java, Java Swing, JDBC, MySQL
-
-- Built a desktop-based bus ticket booking application using Java Swing.
-- Implemented booking and cancellation functionality.
-- Added seat availability management.
-- Connected the application with MySQL using JDBC.
-
----
-
 ## 🧠 Coding & Problem Solving
 
 ### LeetCode
@@ -96,16 +85,6 @@ improving my problem-solving skills using Java.
 [![GitHub](https://img.shields.io/badge/GitHub-revanth366-181717?style=for-the-badge&logo=github)](https://github.com/revanth366)
 
 ---
-
-## 🏆 Certifications
-
-- 🎓 Oracle Academy – Java Fundamentals
-- 🗄️ Oracle Academy – Database Foundations
-- 📊 HackerRank – SQL (Basic)
-- 🧠 HackerRank – Problem Solving (Intermediate)
-- 🌐 Infosys Springboard – HTML5, JavaScript, Node.js, ReactJS, MongoDB
-- 🤖 IBM SkillsBuild – Getting Started with Generative AI
-- ⚛️ Coursera – Quantum Computing For Everyone
 
 ---
 
