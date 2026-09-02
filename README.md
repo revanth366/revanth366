@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gade Revanth
+# Hi 👋, I'm Revanth
 
 ### 👨‍💻 B.Tech CSE Student | Java & DSA | Data & ML Engineering
 
@@ -55,6 +55,39 @@ continuously learning new technologies.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+---
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://www.codechef.com/users/revanth_333">
+    <img src="https://img.shields.io/badge/CodeChef-revanth__333-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+
+  <a href="https://leetcode.com/u/revanth_3_/">
+    <img src="https://img.shields.io/badge/LeetCode-revanth__3__-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/revanthbjmb">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-revanthbjmb-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/revanthg8121">
+    <img src="https://img.shields.io/badge/HackerRank-revanthg8121-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/revanth366">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=revanth366&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
 ---
 
 ## 📌 Featured Projects
@@ -67,55 +100,30 @@ continuously learning new technologies.
 - Integrated JWT authentication for secure user access.
 - Implemented AI-assisted story generation.
 - Added real-time collaboration features.
-
 ---
 
-## 🧠 Coding & Problem Solving
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
-### LeetCode
+<p align="left">
+  <a href="https://www.linkedin.com/in/revanth-gade/" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Revanth Gade" height="30" width="40" />
+  </a>
 
-I regularly practice **Data Structures & Algorithms** and focus on 
-improving my problem-solving skills using Java.
+  <a href="mailto:revanthg8121@gmail.com" target="blank">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      alt="Email" height="30" width="40" />
+  </a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-revanth__3__-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/revanth_3_/)
+  <a href="https://www.hackerrank.com/profile/revanthg8121" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="revanthg8121" height="30" width="40" />
+  </a>
+</p>
 
-### GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-revanth366-181717?style=for-the-badge&logo=github)](https://github.com/revanth366)
-
----
-
----
-
-## 🏅 Achievements
-
-- 💻 Completed CodeChef 500 Difficulty Problems
-- 🧠 HackerRank Problem Solving (Intermediate) Certified
-- 📊 HackerRank SQL (Basic) Certified
-
----
-
-## 📚 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Java Programming
-- Artificial Intelligence
-- Probability & Statistics
-
----
-
-## 🤝 Let's Connect
-
-📧 **Email:** [revanthg8121@gmail.com](mailto:revanthg8121@gmail.com)
-
-💼 **LinkedIn:** [Gade Revanth](https://www.linkedin.com/in/revanth-gade/)
-
-🧠 **LeetCode:** [revanth_3_](https://leetcode.com/u/revanth_3_/)
-
-🐙 **GitHub:** [revanth366](https://github.com/revanth366)
 
 ---
 
